@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.41</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\ShR\Desktop\kornomoter</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>19</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>134</LINE></EX0_ISR>
+  <EX2_ISR><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>139</LINE></EX2_ISR>
+  <CMNDWRT><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>193</LINE></CMNDWRT>
+  <DELAY_2ms><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>268</LINE></DELAY_2ms>
+  <AGAIN><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>99</LINE></AGAIN>
+  <DELAY><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>160</LINE></DELAY>
+  <HH><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>117</LINE></HH>
+  <Bin2ToAsc5><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>281</LINE></Bin2ToAsc5>
+  <LCD><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>177</LINE></LCD>
+  <T1_CM_ISR><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>151</LINE></T1_CM_ISR>
+  <L1><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>162</LINE></L1>
+  <L2><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>163</LINE></L2>
+  <L3><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>164</LINE></L3>
+  <DATAWRT><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>224</LINE></DATAWRT>
+  <SDELAY><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>252</LINE></SDELAY>
+  <DELAY_100us><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>258</LINE></DELAY_100us>
+  <DR0><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>261</LINE></DR0>
+  <LDR0><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>271</LINE></LDR0>
+  <Bin2ToBcd5><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>312</LINE></Bin2ToBcd5>
+  <Bin2ToAsc5a><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>287</LINE></Bin2ToAsc5a>
+  <Bin2ToAsc5b><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>298</LINE></Bin2ToAsc5b>
+  <Bin2ToAsc5c><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>302</LINE></Bin2ToAsc5c>
+  <Bin2ToDigit><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>343</LINE></Bin2ToDigit>
+  <Bin2ToDigita><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>347</LINE></Bin2ToDigita>
+  <Bin2ToDigitc><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>362</LINE></Bin2ToDigitc>
+  <Bin2ToDigitb><FILE>C:\Users\ShR\Desktop\kornomoter\kornomoter.asm</FILE><LINE>355</LINE></Bin2ToDigitb>
+ </LABELS>
+</ASSEMBLER_INFO>
