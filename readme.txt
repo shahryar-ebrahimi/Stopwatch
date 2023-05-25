@@ -1,1 +1,1 @@
-For the counter to start, INTERRUPT ZERO must be pressed.
+For the counter to start, INTERRUPT ZERO must be activated each time.
